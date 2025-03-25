@@ -1,4 +1,3 @@
-
 Proposed working project title:
 
 Integrating Google Trends data and socioeconomic indicators to accurately forecast State-Level Mental Health Service Utilization for the upcoming year.
@@ -15,4 +14,4 @@ States with higher Google Trends search interest for mental health-related terms
 
 Prediction:
 
-A machine learning model trained on past trends and demographic indicators will predict 2024 utilization rates with an RMSE under 5 points and an R-squared above 0.75 for at least 70% of states. This project builds upon an existing study conducted by the student's research team that explored predictive modeling of mental health service utilization using Google Trends data. Their preliminary findings demonstrated promising results but require methodological enhancements to improve model robustness, predictive accuracy, and interpretability. This project aims to develop a more robust and accurate predictive model by refining feature engineering, optimizing machine learning methodologies, and enhancing hyperparameter tuning techniques. The insights gained from this project could contribute to an original research paper, positioning the work for academic publication.
+A machine learning model trained on past trends and demographic indicators will predict 2024 utilization rates with an RMSE under 5 points and an R-squared above 0.75 for at least 70% of states. This project builds upon an existing study conducted by student's research team who explored predictive modeling of mental health service utilization using Google Trends data. Their preliminary findings demonstrated promising results but require methodological enhancements to improve model robustness, predictive accuracy, and interpretability. This project aims to develop a more robust and accurate predictive model by refining feature engineering, optimizing machine learning methodologies, and enhancing hyperparameter tuning techniques. The insights gained from this project could contribute to an original research paper, positioning the work for academic publication.
